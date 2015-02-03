@@ -1,5 +1,5 @@
 # Some notes with findings while using meteor
 
-# Online Resources
+## Online Resources
 
-meteortips.com - free online book for beginners
+[meteortips.com](http://meteortips.com) - free online book for beginners
